@@ -1,0 +1,3 @@
+this is my new file 
+// we can create empty git file by following command 
+git init
